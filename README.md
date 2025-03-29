@@ -94,14 +94,6 @@ file-encryption-cli/
 ├── pyproject.toml
 ```
 
----
-
-## 📸 Screenshots
-
-> Add screenshots here of encryption/decryption in action
-
----
-
 ## 📦 Packaging
 
 Create executable (optional):
