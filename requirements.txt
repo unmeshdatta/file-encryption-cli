@@ -1,0 +1,5 @@
+cryptography
+python-gnupg
+click
+argon2-cffi
+keyring
